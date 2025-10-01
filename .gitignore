@@ -34,3 +34,6 @@
 *.zip
 *.tgz
 *.xz
+
+
+arch/arm*
